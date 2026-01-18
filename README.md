@@ -1,2 +1,4 @@
-# ModelHub-Test
-Collaboration repository for ModelHub project with Alex and Sam
+# ModelHub Roadmap
+## Create a simple framework to run any LLMs.
+## Introduce new Method to accelerate the inference of LLMs.
+## Support the inference of LMMs.
